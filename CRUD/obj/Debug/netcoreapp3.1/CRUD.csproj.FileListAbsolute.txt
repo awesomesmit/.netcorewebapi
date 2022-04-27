@@ -63,3 +63,38 @@ C:\Users\visha\source\repos\CRUD\Crud-Operation\CRUD\bin\Debug\netcoreapp3.1\Swa
 C:\Users\visha\source\repos\CRUD\Crud-Operation\CRUD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\visha\source\repos\CRUD\Crud-Operation\CRUD\obj\Debug\netcoreapp3.1\CRUD.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\visha\source\repos\CRUD\Crud-Operation\CRUD\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\appsettings.json
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\CRUD.StaticWebAssets.xml
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\CRUD.exe
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\SqlQueries.xml
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\CRUD.deps.json
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\CRUD.runtimeconfig.json
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\CRUD.runtimeconfig.dev.json
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\CRUD.dll
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\CRUD.pdb
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\tatvasoft assignment\gitproj\CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\tatvasoft assignment\gitproj\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.AssemblyReference.cache
+D:\tatvasoft assignment\gitproj\CRUD\obj\Debug\netcoreapp3.1\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\tatvasoft assignment\gitproj\CRUD\obj\Debug\netcoreapp3.1\CRUD.AssemblyInfoInputs.cache
+D:\tatvasoft assignment\gitproj\CRUD\obj\Debug\netcoreapp3.1\CRUD.AssemblyInfo.cs
+D:\tatvasoft assignment\gitproj\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.CoreCompileInputs.cache
+D:\tatvasoft assignment\gitproj\CRUD\obj\Debug\netcoreapp3.1\CRUD.MvcApplicationPartsAssemblyInfo.cs
+D:\tatvasoft assignment\gitproj\CRUD\obj\Debug\netcoreapp3.1\CRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\tatvasoft assignment\gitproj\CRUD\obj\Debug\netcoreapp3.1\staticwebassets\CRUD.StaticWebAssets.Manifest.cache
+D:\tatvasoft assignment\gitproj\CRUD\obj\Debug\netcoreapp3.1\CRUD.RazorTargetAssemblyInfo.cache
+D:\tatvasoft assignment\gitproj\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.CopyComplete
+D:\tatvasoft assignment\gitproj\CRUD\obj\Debug\netcoreapp3.1\CRUD.dll
+D:\tatvasoft assignment\gitproj\CRUD\obj\Debug\netcoreapp3.1\CRUD.pdb
+D:\tatvasoft assignment\gitproj\CRUD\obj\Debug\netcoreapp3.1\CRUD.genruntimeconfig.cache

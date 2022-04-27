@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\visha\\source\\repos\\CRUD\\Crud-Operation\\CRUD\\CRUD.csproj": {}
+    "D:\\tatvasoft assignment\\gitproj\\CRUD\\CRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\visha\\source\\repos\\CRUD\\Crud-Operation\\CRUD\\CRUD.csproj": {
+    "D:\\tatvasoft assignment\\gitproj\\CRUD\\CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\visha\\source\\repos\\CRUD\\Crud-Operation\\CRUD\\CRUD.csproj",
+        "projectUniqueName": "D:\\tatvasoft assignment\\gitproj\\CRUD\\CRUD.csproj",
         "projectName": "CRUD",
-        "projectPath": "C:\\Users\\visha\\source\\repos\\CRUD\\Crud-Operation\\CRUD\\CRUD.csproj",
-        "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\visha\\source\\repos\\CRUD\\Crud-Operation\\CRUD\\obj\\",
+        "projectPath": "D:\\tatvasoft assignment\\gitproj\\CRUD\\CRUD.csproj",
+        "packagesPath": "C:\\Users\\SMIT\\.nuget\\packages\\",
+        "outputPath": "D:\\tatvasoft assignment\\gitproj\\CRUD\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\visha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SMIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
